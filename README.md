@@ -1,6 +1,8 @@
 
 Sample project for demonstrating an issue with Spring Cloud Sleuth and WebClient when using bodyToFlux
 
+Issue:  https://github.com/spring-cloud/spring-cloud-sleuth/issues/1443
+
 ### Endpoints
 
 * http://localhost:8080/mono
